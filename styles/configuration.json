@@ -1,0 +1,22 @@
+{
+    "configuration": {
+        "compress": true
+    },
+    "sets": {
+        "ad": {
+            "features": {
+                "ad": {
+                    "state": true,
+                    "description": "Признак проекта AnastasiaDate"
+                },
+                "like": {
+                    "state": true,
+                    "description": "Краткое описание фичи"
+                }
+            }
+        },
+        "amo": {
+
+        }
+    }
+}

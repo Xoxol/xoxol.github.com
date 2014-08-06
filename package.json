@@ -1,25 +1,28 @@
 {
-    "name": "LessCompiler",
-    "version": "0.0.1",
-    "description": "App for compile less with features to css",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Xoxol/xoxol.github.com.git"
-    },
-    "keywords": [
-        "less", "features"
-    ],
-    "author": "Eugene Kulikov",
-    "license": "BSD-2-Clause",
-    "bugs": {
-        "url": "https://github.com/Xoxol/xoxol.github.com/issues"
-    },
-    "homepage": "https://github.com/Xoxol/xoxol.github.com",
-    "dependencies": {
-        "less": "~1.7.4"
-    }
+  "name": "LessCompiler",
+  "version": "0.0.1",
+  "description": "App for compile less with features to css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xoxol/xoxol.github.com.git"
+  },
+  "keywords": [
+    "less",
+    "features"
+  ],
+  "author": "Eugene Kulikov",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Xoxol/xoxol.github.com/issues"
+  },
+  "homepage": "https://github.com/Xoxol/xoxol.github.com",
+  "dependencies": {
+    "less": "~1.7.4",
+    "connect": "~2.24.3",
+    "dispatch": "~1.0.0"
+  }
 }
